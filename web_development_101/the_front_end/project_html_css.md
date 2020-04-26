@@ -3266,6 +3266,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [patrickronn's Solution (Both)](https://github.com/patrickronn/google-homepage) - [View in Browser](https://patrickronn.github.io/google-homepage/search.html)
 * [TildaDares' Solution (Both)](https://github.com/TildaDares/the_odin_project) - [View In Browser](https://tildadares.github.io/the_odin_project/google-homepage)
 </details>
+* Alberto's solution (https://github.com/albertoincoding/google-homepage)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
